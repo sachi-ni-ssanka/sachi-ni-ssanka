@@ -10,9 +10,6 @@
 <p align="left">✨ On and Off to coding since 2015. <br>🎲 Fun fact: I have Tsundoku (積ん読) Syndrome</p>
 
 ###
-``say hello to me @`` &nbsp; <a href="https://www.linkedin.com/in/sachi-ni-ssanka/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
-###
 
 <h2 align="left">I Play With </h2>
 
