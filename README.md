@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sachini and I'm a Business Intelligence Developer/ Analyst, from Beautiful GOTHENBURG 🇸🇪</p>
+<p align="left">My name is Sachini and I'm a Master's student, from Beautiful GOTHENBURG 🇸🇪</p>
 
 
 ###
